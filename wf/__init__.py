@@ -47,12 +47,12 @@ def profiler(fastq_file1: LatchFile, fastq_file2: LatchFile, out_dir: LatchDir) 
         display_name: Process M.tb whole genome sequencing data to predict lineage and drug-resistance
 
         author:
-            name: SGOdette
+            name: GeOdette
 
             email: steveodettegeorge@gmail.com
 
             github:
-        repository:
+        repository: https://github.com/GeOdette/tbprofiler.git
 
         license:
             id: MIT
