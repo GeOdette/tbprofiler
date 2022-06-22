@@ -1,0 +1,12 @@
+trimmomatic
+bwa
+minimap2
+bowtie2
+samtools
+bcftools
+GATK
+freebayes
+tqdm
+parallel
+samclip
+snpEff
